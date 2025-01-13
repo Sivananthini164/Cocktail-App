@@ -32,6 +32,7 @@ Welcome to the **Cocktail App**! This is a web application where users can searc
    
 3. Start searching for cocktails using the input field!
 
+
    
 **File Structure 📂**
 
@@ -44,6 +45,7 @@ Cocktail App/
 ├── script.js         # JavaScript for functionality
 
 └── README.md         # Documentation (this file)
+
 
 
 **How It Works 🔍**
@@ -65,11 +67,13 @@ Instructions for preparation.
 If no valid result is found, an error message is displayed.
 
 
+
 **Cocktail Details**
 
 API Used 🌐
 
 The app uses TheCocktailDB API to fetch cocktail data. For more information about the API, visit their documentation page.
+
 
 **Future Enhancements 🚧**
 
